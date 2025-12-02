@@ -35,7 +35,10 @@ Auth	JWT (JSON Web Tokens)
 File Upload	Multer + Cloudinary
 Deployment	Render
 Tools	Postman, Git, GitHub
-📂 Folder Structure
+
+
+
+📂 Folder Structure                   
 root
 │── src
 │   ├── server.js
@@ -355,3 +358,4 @@ Automated scoring
 Reporting dashboards
 
 You can now integrate this API with a frontend (React/Angular/Vue).
+
