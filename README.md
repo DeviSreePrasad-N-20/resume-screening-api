@@ -71,7 +71,6 @@ root
 │── package.json
 │── README.md
 
-⚙️ Environment Variables (.env)
 
 Create a .env file in root:
 
@@ -358,4 +357,5 @@ Automated scoring
 Reporting dashboards
 
 You can now integrate this API with a frontend (React/Angular/Vue).
+
 
